@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lorenzocaramaschi&label=Profile%20views&color=0e75b6&style=flat" alt="lorenzocaramaschi" /> </p>
 
-- 🔭 I’m currently working on **"Glen" and "Tobo Indigo" portfolios**
+- 🔭 I’m currently working on **"Glen" portfolio, "Tobo Indigo" portfolio and "BuscarPro" E-Commerce Simulator**
 
 - 🌱 I’m currently learning **Javascript!**
 
